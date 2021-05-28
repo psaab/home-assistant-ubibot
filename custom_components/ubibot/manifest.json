@@ -3,6 +3,7 @@
   "name": "Ubibot",
   "documentation": "https://www.ubibot.io/platform-api/",
   "requirements": [],
+  "version": "0.01",
   "dependencies": [],
   "codeowners": []
 }
